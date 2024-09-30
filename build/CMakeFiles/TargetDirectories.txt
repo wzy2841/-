@@ -1,0 +1,3 @@
+/home/wzy2841/study/build/CMakeFiles/rebuild_cache.dir
+/home/wzy2841/study/build/CMakeFiles/app.dir
+/home/wzy2841/study/build/CMakeFiles/edit_cache.dir

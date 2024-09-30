@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/head.h
+
+/home/wzy2841/study/src/add.cpp
+stdio.h
+-
+
+/home/wzy2841/study/src/main.cpp
+stdio.h
+-
+head.h
+/home/wzy2841/study/src/head.h
+
+/home/wzy2841/study/src/sub.cpp
+stdio.h
+-
+
+/home/wzy2841/study/src/test.cpp
+
